@@ -2,9 +2,7 @@ node_modules/
 dist/
 out/
 release/
-build/renderer/
-build/main/
-build/preload/
+**/build/
 .next/
 .swc/
 .turbo/
